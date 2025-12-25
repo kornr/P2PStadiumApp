@@ -1,0 +1,4 @@
+cat > settings.gradle << 'EOF'
+rootProject.name = "P2PStadiumApp"
+include ':app'
+EOF
